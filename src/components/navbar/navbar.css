@@ -1,0 +1,18 @@
+.title{
+    padding-right:70px ;
+}
+ .link{
+    color:aliceblue;
+    font-size: 17px;
+    text-decoration: none;
+    margin: 10px;
+    padding-right: 10px;
+}
+
+.link:hover{
+    color:rgb(14, 209, 216);
+}
+.drop_link{
+    color:black;
+    text-decoration: none;
+}
